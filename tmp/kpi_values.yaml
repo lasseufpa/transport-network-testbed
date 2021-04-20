@@ -1,0 +1,115 @@
+switch_1:port_1:
+  delay: ''
+  jitter: ''
+  throughput: ''
+  updated_at: ''
+switch_1:port_2:
+  delay: ''
+  jitter: ''
+  throughput: ''
+  updated_at: ''
+switch_1:port_3:
+  delay: ''
+  jitter: ''
+  throughput: ''
+  updated_at: ''
+switch_1:port_4:
+  delay: ''
+  jitter: ''
+  throughput: ''
+  updated_at: ''
+switch_1:port_5:
+  delay: ''
+  jitter: ''
+  throughput: ''
+  updated_at: ''
+switch_1:port_6:
+  delay: ''
+  jitter: ''
+  throughput: ''
+  updated_at: ''
+switch_2:port_1:
+  delay: ''
+  jitter: ''
+  throughput: ''
+  updated_at: ''
+switch_2:port_2:
+  delay: ''
+  jitter: ''
+  throughput: ''
+  updated_at: ''
+switch_3:port_1:
+  delay: ''
+  jitter: ''
+  throughput: ''
+  updated_at: ''
+switch_3:port_2:
+  delay: ''
+  jitter: ''
+  throughput: ''
+  updated_at: ''
+switch_4:port_1:
+  delay: ''
+  jitter: ''
+  throughput: ''
+  updated_at: ''
+switch_4:port_2:
+  delay: ''
+  jitter: ''
+  throughput: ''
+  updated_at: ''
+switch_5:port_1:
+  delay: ''
+  jitter: ''
+  throughput: ''
+  updated_at: ''
+switch_5:port_2:
+  delay: ''
+  jitter: ''
+  throughput: ''
+  updated_at: ''
+switch_6:port_1:
+  delay: ''
+  jitter: ''
+  throughput: ''
+  updated_at: ''
+switch_6:port_2:
+  delay: ''
+  jitter: ''
+  throughput: ''
+  updated_at: ''
+switch_7:port_1:
+  delay: ''
+  jitter: ''
+  throughput: ''
+  updated_at: ''
+switch_7:port_2:
+  delay: ''
+  jitter: ''
+  throughput: ''
+  updated_at: ''
+switch_7:port_3:
+  delay: ''
+  jitter: ''
+  throughput: ''
+  updated_at: ''
+switch_7:port_4:
+  delay: ''
+  jitter: ''
+  throughput: ''
+  updated_at: ''
+switch_7:port_5:
+  delay: ''
+  jitter: ''
+  throughput: ''
+  updated_at: ''
+switch_8:port_1:
+  delay: ''
+  jitter: ''
+  throughput: ''
+  updated_at: ''
+switch_8:port_2:
+  delay: ''
+  jitter: ''
+  throughput: ''
+  updated_at: ''
